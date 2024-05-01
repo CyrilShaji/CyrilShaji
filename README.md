@@ -10,5 +10,5 @@
 
 - 🏆 **Winner of 10 National level Analytics Case competitions** and 20+ national finalists
 
-- 🔗 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/cyril-shaji-22b933147/)
+- 🔗 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/cyril-shaji-22b933147/) and **visit my** [Project Portfolio](https://cyrilshaji.github.io/My-Portfolio/)
 
