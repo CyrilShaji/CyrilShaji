@@ -1,6 +1,6 @@
 <h1 align="center"> Hello and Welcome to my Github Profile!👋</h1>
 <h3 align="center"> I am a data scientist dedicated to leveraging advanced analytics and machine learning to solve challenging problems and deliver value from data. Check out my <a href="https://cyrilshaji.github.io/My-Portfolio/">Portfolio</a> to view my projects.</h3>
-<img align="right" alt="Coding" width="400" height="500" src=https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/Github.png>
+<img align="right" alt="Coding" width="400" height="410" src=https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/Github.png>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyrilShaji&label=Profile%20views&color=0e75b6&style=flat" alt="CyrilShaji" /> </p>
 
 
