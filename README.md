@@ -8,5 +8,11 @@
 
 - 🌱 I’m currently learning **the use of analytics tools to generate insights while solving business problems**
 
-- 
+- 🧠 Currently **working as a data scientist**, leveraging analytics, ML, DP, and NLP to solve business problems
+  
+- 📚 **MBA Graduate** from SCMHRD and **Engineering Graduate** from NIT Calicut
+
+- 🏆 **Winner of 10 National level Analytics Case competitions** and 20+ national finalists
+
+- 🔗 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
