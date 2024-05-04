@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyrilShaji&label=Profile%20views&color=0e75b6&style=flat" alt="CyrilShaji" /> </p>
 
 
-- 🧠 Currently **working as a data scientist**, leveraging data analytics, ML, DP, and NLP to solve business problems
+- 🧠 Currently **working as a data scientist**, leveraging data analytics, ML, DL, and NLP to solve business problems
   
 - 📚 **MBA Graduate** from SCMHRD and **Engineering Graduate** from NIT Calicut
 
